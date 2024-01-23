@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" />](https://instagram.com/canakyuz__)
 [<img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge"/>](https://canakyuz.medium.com/)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/in/bcakyz/)
-[<img src="https://img.shields.io/badge/fiverr-25c278.svg?&style=for-the-badge&logo=fiverr&logoColor=white" />](https://www.fiverr.com/can_akyuz?up_rollout=true)
+
 
 - ![](https://github.com/canakyuz/v4/blob/main/public/logo/favicon.svg) Feel free to check out my [portfolio](https://canakyuz.dev/) website!
 - 🏢 #OPENTOWORK
