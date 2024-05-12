@@ -6,7 +6,7 @@
 
 
 - ![](https://github.com/canakyuz/v4/blob/main/public/logo/favicon.svg) Feel free to check out my [portfolio](https://canakyuz.dev/) website!
-- 🏢 #OPENTOWORK
+- 🏢 Frontend Developer [@Zirve](https://zirve-bilgisayar.com/), in Urla Izmir
 - 🧰 I build with: `TypeScript`, `Vue.js`, `Vuetify` `JavaScript`, `Next.js`, `Tailwind` ...
 - ⚡ I enjoy reading and lifting weights :)
 - 📫 Reach out to me: canakyuz23@gmail.com
