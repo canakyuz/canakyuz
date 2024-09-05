@@ -5,7 +5,7 @@
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/in/bcakyz/)
 
 
-- ![](https://github.com/canakyuz/v4/blob/main/public/logo/favicon.svg) Feel free to check out my [portfolio](https://canakyuz.dev/) website!
+- [![](https://github.com/canakyuz/v4/blob/main/public/logo/favicon.svg)](https://canakyuz.dev/) Feel free to check out my [portfolio](https://canakyuz.dev/) website!
 - 🏢 Frontend Developer [@Zirve](https://zirve-bilgisayar.com/), in Urla Izmir
 - 🧰 I build with: `TypeScript`, `Vue.js`, `Vuetify` `JavaScript`, `Next.js`, `Tailwind` ...
 - ⚡ I enjoy reading and lifting weights :)
