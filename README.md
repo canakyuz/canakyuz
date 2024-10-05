@@ -12,6 +12,3 @@
 - 📫 Reach out to me: canakyuz23@gmail.com
 
 **Tech:** _whatever I need..._
-**Own Projects:** 
-  - _`nex`:_ dashboard
-  - _`nexux`:_ NLP Software
