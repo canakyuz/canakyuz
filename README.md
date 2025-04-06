@@ -10,3 +10,5 @@
 - 📫 Reach out to me: canakyuz23@gmail.com
 
 **Tech:** _whatever I need..._
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canakyuz&layout=compact)
