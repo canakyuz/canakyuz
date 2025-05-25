@@ -4,7 +4,7 @@
 
 
 - [![](https://github.com/canakyuz/v4/blob/main/public/logo/favicon.svg)](https://canakyuz.dev/) Feel free to check out my [portfolio](https://canakyuz.dev/) website!
-- 🏢 Frontend Developer [@Zirve](https://zirve-bilgisayar.com/), in Urla Izmir. Use this `TypeScript`, `Vue.js`, `Vuetify`. `Electron`, `Laravel`, `MySQL`, `Docker`
+- 🏢 Frontend Developer [@Zirve](https://zirve-bilgisayar.com/), in Urla Izmir. Use this `TypeScript`, `Vue.js`, `Vuetify`. `Electron`, `SQL`, `Docker`
 - 🧰 I build with:  `NLP` ,`Deep Learning`,`Expo`, `React Native`, `TypeScript`, `Next.js`, `Tailwind` ...
 - ⚡ I enjoy reading and lifting weights :)
 - 📫 Reach out to me: canakyuz23@gmail.com
