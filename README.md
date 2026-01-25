@@ -2,11 +2,15 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/canakyuzz)
 [<img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge"/>](https://canakyuz.medium.com/)
 
-
 - [![](https://github.com/canakyuz/v4/blob/main/public/logo/favicon.svg)](https://canakyuz.co/) Feel free to check out my [portfolio](https://canakyuz.co/) website!
-- 🚀 Frontend Developer, currently open to new opportunities
-- 🧰 I build with:  `NLP` ,`Deep Learning`,`Expo`, `React Native`, `TypeScript`, `Next.js`, `Tailwind` ...
-- ⚡ I enjoy reading and lifting weights :)
-- 📫 Reach out to me: canakyuz23@gmail.com
+- 🚀 **Software Developer & Entrepreneur** | Building at **Dreamweave Studio**
+- 📍 Relocating to **London, UK** in February 2026
+- 🛠️ Currently focusing on:
+    - **[Nexein](https://nexein.co):** Modern CV editor and career-seeking platform.
+    - **[Levios](https://levios.co):** E-commerce systems and digital brand infrastructure.
+    - **[Empire Inc](https://empireinc.app):** Specialized gaming and interactive web applications.
+- 🧰 I build with: `Next.js`, `TypeScript`, `Tailwind`, `React Native`, `Expo`, `NLP`, `Deep Learning` ...
+- ⚡ I enjoy reading and lifting weights.
+- 📫 Reach out to me: **canakyuz23@gmail.com**
 
 **Tech:** _whatever I need..._
