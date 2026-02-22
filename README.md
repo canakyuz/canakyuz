@@ -7,7 +7,7 @@
 - 📍 Relocating to **London, UK** in February 2026
 - 🛠️ Currently focusing on:
     - **[Nexein](https://nexein.co):** Modern CV editor and career-seeking platform.
-    - **[Wesan](https://github.com/wesan-labs):** Modern CV editor and career-seeking platform.
+    - **[Wesan](https://github.com/wesan-labs):** My Enjoy Room.
 - 🧰 I build with: `Next.js`, `TypeScript`, `Tailwind`, `React Native`, `Expo`, `Rust`, `Tauri` ...
 - ⚡ I enjoy reading and lifting weights.
 - 📫 Reach out to me: **canakyuz23@gmail.com**
