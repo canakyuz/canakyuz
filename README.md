@@ -4,7 +4,7 @@
 
 - [![](https://github.com/canakyuz/v4/blob/main/public/logo/favicon.svg)](https://canakyuz.co/) Feel free to check out my [portfolio](https://canakyuz.co/) website!
 - 🚀 **Software Developer & Entrepreneur** | Building at **Canakyuz.co** and **Nexoss**
-- 📍 Relocating to **London, UK** in February 2026
+- 📍 Relocating to **London, UK** in June 2026
 - 🛠️ Currently focusing on:
     - **[Nexein](https://nexein.co):** Modern CV editor and career-seeking platform.
     - **[Wesan](https://github.com/wesan-labs):** My Enjoy Room.
