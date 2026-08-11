@@ -3,8 +3,8 @@
 [<img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge"/>](https://canakyuz.medium.com/)
 
 - [![](https://github.com/canakyuz/v4/blob/main/public/logo/favicon.svg)](https://canakyuz.co/) Feel free to check out my [portfolio](https://canakyuz.co/) website!
-- 🚀 **Software Developer & Entrepreneur** | Building at **Canakyuz.co** and **Nexoss**
-- 📍 Relocating to **London, UK** in June 2026
+- 🚀 **Software Developer & Entrepreneur** |
+- 📍 London, UK
 - 🛠️ Currently focusing on:
     - **[Nexein](https://nexein.co):** Modern CV editor and career-seeking platform.
     - **[Wesan](https://github.com/wesan-labs):** My Enjoy Room.
