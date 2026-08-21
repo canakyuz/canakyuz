@@ -8,7 +8,7 @@
 - 🛠️ Currently focusing on:
     - **[Nexein](https://beta.nexein.co):** A modern CV editor and career platform.
     - **[Wesan](https://wesan.co):** My software studio - AI products, developer tools, and a small game portfolio that funds them.
-- 🧰 I build with: `TypeScript`, `Next.js`, `Tailwind`, `React Native`, `Expo`, `Rust`, `Tauri` ...
+- 🧰 I build with: `TypeScript`, `Go`, `Java`, `Next.js`, `React Native`, `Expo`, `Rust`, `Tauri` ...
 - ⚡ Off-screen: books and heavy barbells.
 - 📫 Reach me at: **canakyuz23@gmail.com**
 
