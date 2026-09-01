@@ -3,14 +3,11 @@
 [<img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge"/>](https://canakyuz.medium.com/)
 
 - [![](https://github.com/canakyuz/v4/blob/main/public/logo/favicon.svg)](https://canakyuz.co/) Take a look at my [portfolio](https://canakyuz.co/) - work, writing, and what I'm building.
-- 🚀 **Software Developer & Entrepreneur**
+- 🚀 **Software Developer**
 - 📍 London, UK
-- 🛠️ Currently focusing on:
-    - ⛵ **[Helm](https://github.com/canakyuz/helm):** Open-source ops hub for indie app portfolios - revenue, users, crashes and reviews in one dashboard + iOS widget.
-    - **[Nexein](https://beta.nexein.co):** A modern CV editor and career platform.
-    - **[Wesan](https://wesan.co):** My software studio - AI products, developer tools, and a small game portfolio that funds them.
+- 🛠️ Currently focusing on: ⛵ **[Helm](https://github.com/canakyuz/helm)**, **[Nexein](https://beta.nexein.co)**, **[Wesan](https://wesan.co)**
 - 🧰 I build with: `TypeScript`, `Go`, `Java`, `Next.js`, `React Native`, `Expo`, `Rust`, `Tauri` ...
-- ⚡ Off-screen: books and heavy barbells.
+- ⚡ Off-screen: long walks and good books.
 - 📫 Reach me at: **canakyuz23@gmail.com**
 
 **Tech:** _whatever the problem needs._
